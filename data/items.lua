@@ -32,7 +32,7 @@ return {
 	},
 
 	['bandage'] = {
-		label = 'Bandage',
+		label = 'bandage',
 		weight = 115,
 		client = {
 			anim = { dict = 'missheistdockssetup1clipboard@idle_a', clip = 'idle_a', flag = 49 },
@@ -43,11 +43,11 @@ return {
 	},
 
 	['black_money'] = {
-		label = 'Dirty Money',
+		label = 'argent sale',
 	},
 
 	['burger'] = {
-		label = 'Burger',
+		label = 'burger',
 		weight = 220,
 		client = {
 			status = { hunger = 200000 },
@@ -71,7 +71,7 @@ return {
 	},
 
 	['parachute'] = {
-		label = 'Parachute',
+		label = 'parachute',
 		weight = 8000,
 		stack = false,
 		client = {
@@ -85,36 +85,20 @@ return {
 	},
 
 	['paperbag'] = {
-		label = 'Paper Bag',
+		label = 'sac en papier',
 		weight = 1,
 		stack = false,
 		close = false,
 		consume = 0
 	},
 
-	['identification'] = {
-		label = 'Identification',
-	},
-
-	['panties'] = {
-		label = 'Knickers',
-		weight = 10,
-		consume = 0,
-		client = {
-			status = { thirst = -100000, stress = -25000 },
-			anim = { dict = 'mp_player_intdrink', clip = 'loop_bottle' },
-			prop = { model = `prop_cs_panties_02`, pos = vec3(0.03, 0.0, 0.02), rot = vec3(0.0, -13.5, -1.5) },
-			usetime = 2500,
-		}
-	},
-
 	['lockpick'] = {
-		label = 'Lockpick',
+		label = 'outil de crochetage',
 		weight = 160,
 	},
 
 	['phone'] = {
-		label = 'Phone',
+		label = 'iPhone',
 		weight = 190,
 		stack = false,
 		consume = 0,
@@ -134,7 +118,7 @@ return {
 	},
 
 	['money'] = {
-		label = 'Money',
+		label = 'espèce',
 	},
 
 	['mustard'] = {
@@ -150,7 +134,7 @@ return {
 	},
 
 	['water'] = {
-		label = 'Water',
+		label = 'eau',
 		weight = 500,
 		client = {
 			status = { thirst = 200000 },
@@ -163,7 +147,7 @@ return {
 	},
 
 	['radio'] = {
-		label = 'Radio',
+		label = 'radio',
 		weight = 1000,
 		stack = false,
 		allowArmed = true
@@ -179,15 +163,11 @@ return {
 		}
 	},
 
-	['clothing'] = {
-		label = 'Clothing',
-		consume = 0,
-	},
-
-	['mastercard'] = {
-		label = 'Mastercard',
+	['repairitem'] = {
+		label = 'kit de réparation',
+		weight = 1000,
 		stack = false,
-		weight = 10,
+		allowArmed = true
 	},
 
 	['scrapmetal'] = {
