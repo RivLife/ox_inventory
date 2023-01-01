@@ -121,6 +121,17 @@ return {
 		label = 'espèce',
 	},
 
+	['keys'] = {
+		label = 'clé',
+		weight = 1,
+		stack = false,
+		close = false,
+		description = "Clés de véhicules",
+		server = {
+			export = 'okokGarage.lockvehicle',
+		},
+	},
+
 	['mustard'] = {
 		label = 'Mustard',
 		weight = 500,
