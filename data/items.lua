@@ -185,4 +185,172 @@ return {
 		label = 'Scrap Metal',
 		weight = 80,
 	},
+
+	['black_phone'] = {
+		label = 'Black Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['green_phone'] = {
+		label = 'Green Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['blue_phone'] = {
+		label = 'Blue Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['wet_pink_phone'] = {
+		label = 'Wet Pink Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['red_phone'] = {
+		label = 'Red Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['wet_blue_phone'] = {
+		label = 'Wet Blue Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "Did you really think that swimming in the ocean with your phone was a good idea?"
+	},
+
+	['wet_black_phone'] = {
+		label = 'Wet Black Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "Did you really think that swimming in the ocean with your phone was a good idea?"
+	},
+
+	['pink_phone'] = {
+		label = 'Pink Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['wet_white_phone'] = {
+		label = 'Wet White Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['phone_module'] = {
+		label = 'Phone Module',
+		weight = 300,
+		stack = false,
+		close = true,
+		description = "It seems that we can fix a wet phone with this module, interesting."
+	},
+
+	['gold_phone'] = {
+		label = 'Gold Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['classic_phone'] = {
+		label = 'Classic Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['powerbank'] = {
+		label = 'Power Bank',
+		weight = 200,
+		stack = false,
+		close = true,
+		description = "Incredible portable charger!"
+	},
+
+	['wet_red_phone'] = {
+		label = 'Wet Red Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "Did you really think that swimming in the ocean with your phone was a good idea?"
+	},
+
+	['phone_hack'] = {
+		label = 'Phone Hack',
+		weight = 300,
+		stack = false,
+		close = true,
+		description = "With this chip, you can access hidden areas of Discord."
+	},
+
+	['white_phone'] = {
+		label = 'White Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['wet_classic_phone'] = {
+		label = 'Wet Classic Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "Did you really think that swimming in the ocean with your phone was a good idea?"
+	},
+
+	['greenlight_phone'] = {
+		label = 'Green Light Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['wet_greenlight_phone'] = {
+		label = 'Wet Green Light Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['wet_green_phone'] = {
+		label = 'Wet Green Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+	},
+
+	['wet_gold_phone'] = {
+		label = 'Wet Gold Phone',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "Did you really think that swimming in the ocean with your phone was a good idea?"
+	},
 }
