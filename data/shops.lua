@@ -88,7 +88,13 @@ return {
 		blip = {
 			id = 817, colour = 83, scale = 0.8
 		}, inventory = {
-			{ name = 'phone', price = 1459 }
+			{ name = 'black_phone', price = 1459 },
+			{ name = 'green_phone', price = 1459 },
+			{ name = 'blue_phone', price = 1459 },
+			{ name = 'pink_phone', price = 1459 },
+			{ name = 'gold_phone', price = 1459 },
+			{ name = 'white_phone', price = 1459 },
+			{ name = 'powerbank', price = 175},
 		}, locations = {
 			vec3(-1232.0, -1440.5, 4.0)
 		}, targets = {
