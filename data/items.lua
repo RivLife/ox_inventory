@@ -187,39 +187,55 @@ return {
 	},
 
 	['black_phone'] = {
-		label = 'Black Phone',
+		label = 'iPhone 14 Pro Max Noir',
 		weight = 700,
 		stack = false,
 		close = true,
-		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+		description = "iPhone 14 Pro Max Noir 256Go"
 	},
 
 	['green_phone'] = {
-		label = 'Green Phone',
+		label = 'iPhone 14 Pro Max Vert',
 		weight = 700,
 		stack = false,
 		close = true,
-		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+		description = "iPhone 14 Pro Max Vert 256Go"
 	},
 
 	['blue_phone'] = {
-		label = 'Blue Phone',
+		label = 'iPhone 14 Pro Max Bleu',
 		weight = 700,
 		stack = false,
 		close = true,
-		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
+		description = "iPhone 14 Pro Max Bleu 256Go"
+	},
+
+	['pink_phone'] = {
+		label = 'iPhone 14 Pro Max Rose',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "iPhone 14 Pro Max Rose 256Go"
+	},
+
+	['gold_phone'] = {
+		label = 'iPhone 14 Pro Max OR',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "iPhone 14 Pro Max OR 256Go"
+	},
+
+	['white_phone'] = {
+		label = 'iPhone 14 Pro Max blanc',
+		weight = 700,
+		stack = false,
+		close = true,
+		description = "iPhone 14 Pro Max Blanc 256Go"
 	},
 
 	['wet_pink_phone'] = {
 		label = 'Wet Pink Phone',
-		weight = 700,
-		stack = false,
-		close = true,
-		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
-	},
-
-	['red_phone'] = {
-		label = 'Red Phone',
 		weight = 700,
 		stack = false,
 		close = true,
@@ -242,14 +258,6 @@ return {
 		description = "Did you really think that swimming in the ocean with your phone was a good idea?"
 	},
 
-	['pink_phone'] = {
-		label = 'Pink Phone',
-		weight = 700,
-		stack = false,
-		close = true,
-		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
-	},
-
 	['wet_white_phone'] = {
 		label = 'Wet White Phone',
 		weight = 700,
@@ -266,14 +274,6 @@ return {
 		description = "It seems that we can fix a wet phone with this module, interesting."
 	},
 
-	['gold_phone'] = {
-		label = 'Gold Phone',
-		weight = 700,
-		stack = false,
-		close = true,
-		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
-	},
-
 	['classic_phone'] = {
 		label = 'Classic Phone',
 		weight = 700,
@@ -283,11 +283,11 @@ return {
 	},
 
 	['powerbank'] = {
-		label = 'Power Bank',
+		label = 'Batterie MagSafe',
 		weight = 200,
 		stack = false,
 		close = true,
-		description = "Incredible portable charger!"
+		description = "Batterie externe MagSafe pour votre iPhone."
 	},
 
 	['wet_red_phone'] = {
@@ -304,14 +304,6 @@ return {
 		stack = false,
 		close = true,
 		description = "With this chip, you can access hidden areas of Discord."
-	},
-
-	['white_phone'] = {
-		label = 'White Phone',
-		weight = 700,
-		stack = false,
-		close = true,
-		description = "They say that Quasar Smartphone is the same as an iPhone, what do you think?"
 	},
 
 	['wet_classic_phone'] = {
